@@ -1,0 +1,5 @@
+{
+  "name": "Mobile Quote Generator",
+  "description": "A mobile-first quotation generator for sales representatives.",
+  "requestFramePermissions": []
+}
